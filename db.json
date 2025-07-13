@@ -11,6 +11,24 @@
       "name": "Jefferson",
       "email": "jeff@example.com",
       "password": "123456"
+    },
+    {
+      "id": "3",
+      "name": "Well",
+      "email": "well@sesi.com",
+      "password": "123456"
+    },
+    {
+      "id": "4",
+      "name": "Priscyla",
+      "email": "pry@teste.com",
+      "password": "123456"
+    },
+    {
+      "id": "5",
+      "name": "User Teste",
+      "email": "user@teste.com",
+      "password": "123456"
     }
   ],
   "courses": [
