@@ -29,6 +29,12 @@
       "name": "User Teste",
       "email": "user@teste.com",
       "password": "123456"
+    },
+    {
+      "id": "6",
+      "name": "User Teste 2",
+      "email": "user2@teste.com",
+      "password": "123456"
     }
   ],
   "courses": [
